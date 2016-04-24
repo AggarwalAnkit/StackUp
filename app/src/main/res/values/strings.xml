@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StackUp</string>
+    <string name="profile_image">profile_image</string>
+
+    <string name="fa_tag">&#xf02b;</string>
+    <string name="fa_thumbs_up_empty">&#xf087;</string>
+    <string name="fa_thumbs_up_filled">&#xf164;</string>
+    <string name="fa_link">&#xf0c1;</string>
+    <string name="fa_caret_up">&#xf0d8;</string>
+    <string name="fa_clock">&#xf017;</string>
+    <string name="fa_eye">&#xf06e;</string>
+
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search by tag</string>
+
+    <string name="label_unanswered_questions">Unanswered questions</string>
+    <string name="label_favorite_questions">Favorite questions</string>
+    <string name="label_sort_by_votes">Sort by votes</string>
+    <string name="label_sort_by_creation">Sort by creation</string>
+    <string name="label_view_fav">View favorites</string>
+    <string name="label_view_all">View all</string>
+</resources>
